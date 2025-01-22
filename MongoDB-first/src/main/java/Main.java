@@ -28,7 +28,7 @@ public class Main {
         System.out.println("Credentials ::" + credential);
 
         // 4. Creating a collection
-        // database.createCollection("sampleCollection");
+        database.createCollection("sampleCollection");
         // System.out.println("Collection created successfully");
 
         // 5. List Databases
